@@ -26,7 +26,7 @@ for i in list2:
 print(k)
 
 helllllo
-
+oooooo
 
 
 
