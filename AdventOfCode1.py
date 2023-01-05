@@ -25,6 +25,7 @@ for i in list2:
     k.append(np.sum(i))
 print(k)
 
+helllllo
 
 
 
